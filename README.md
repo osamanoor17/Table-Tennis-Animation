@@ -20,7 +20,7 @@ A Flutter app featuring a smooth table tennis animation using Lottie animations.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/table_tennis_animation.git
+   git clone https://github.com/osamanoor17/table_tennis_animation.git
    ```
 2. Navigate to the project folder:
    ```sh
